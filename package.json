@@ -1,0 +1,22 @@
+{
+  "name": "@solucionessore/magic-constants",
+  "version": "1.0.0",
+  "description": "Soluciones SORE, magic-constants",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joandres-Lara/sore-magic-constants.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "Joan Andrés Lara Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joandres-Lara/sore-magic-constants/issues"
+  },
+  "homepage": "https://github.com/Joandres-Lara/sore-magic-constants#readme"
+}
